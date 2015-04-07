@@ -17,7 +17,6 @@ Project PDF:  http://bit.ly/1F03s1l
 * Some C compiler (gcc or clang)
 * Set ROBOTC application preferences as per ENGR120 pdf
 
-
 ### Milestones ###
 
 * Milestone 1 - Concept sketches (Individual) due 4 PM on Monday Feb 16, worth 10%
@@ -25,7 +24,7 @@ Project PDF:  http://bit.ly/1F03s1l
 * Milestone 3 - Electrical systems test (Group) due Thursday March 12 In lab, worth 25%
 * Milestone 4 - Software systems test and Integrated operation (Group) due March 26 in lab, worth 40%
 
-
+![Image of Brobot](https://github.com/stvhwrd/brobot/blob/master/Brobot.jpg)
 
 ### Who do I talk to? ###
 
