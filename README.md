@@ -14,7 +14,6 @@ Project PDF:  http://bit.ly/1F03s1l
 
 * ROBOTC for VEX
 * Windows 7+
-* Some C compiler (gcc or clang)
 * Set ROBOTC application preferences as per ENGR120 pdf
 
 ### Milestones ###
@@ -25,9 +24,3 @@ Project PDF:  http://bit.ly/1F03s1l
 * Milestone 4 - Software systems test and Integrated operation (Group) due March 26 in lab, worth 40%
 
 ![Image of Brobot](https://github.com/stvhwrd/brobot/blob/master/Brobot.jpg)
-
-### Who do I talk to? ###
-
-* Stevie Howard - sahoward@uvic.ca
-* Clayton Ikuta - claykuta@hotmail.com
-* Evan Kenzle
