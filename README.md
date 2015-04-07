@@ -4,7 +4,6 @@ This repository is for the Autonomous Robot prototype project for ENGR120 at UVi
 
 Project PDF:  http://bit.ly/1F03s1l
 
-
 ### What is this repository for? ###
 
 * Autonomous Robot controller in ROBOTC 
@@ -25,6 +24,7 @@ Project PDF:  http://bit.ly/1F03s1l
 * Milestone 2 - Mechanical systems test (Group) due Thursday Feb 26 In lab, worth 25%
 * Milestone 3 - Electrical systems test (Group) due Thursday March 12 In lab, worth 25%
 * Milestone 4 - Software systems test and Integrated operation (Group) due March 26 in lab, worth 40%
+
 
 
 ### Who do I talk to? ###
