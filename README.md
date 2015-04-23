@@ -1,5 +1,7 @@
 # README #
 
+[![Join the chat at https://gitter.im/stvhwrd/brobot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stvhwrd/brobot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository is for the Autonomous Robot prototype project for ENGR120 at UVic.  The prescribed Milestones of development will dictate the evolution of this code.
 
 Project PDF:  http://bit.ly/1F03s1l
