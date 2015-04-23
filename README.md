@@ -23,4 +23,4 @@ Project PDF:  http://bit.ly/1F03s1l
 * Milestone 3 - Electrical systems test (Group) due Thursday March 12 In lab, worth 25%
 * Milestone 4 - Software systems test and Integrated operation (Group) due March 26 in lab, worth 40%
 
-![Image of Brobot](https://github.com/stvhwrd/brobot/blob/master/Brobot.jpg)
+![Image of Brobot](https://github.com/stvhwrd/brobot/blob/master/Brobot.png)
